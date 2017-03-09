@@ -1,53 +1,30 @@
 ###### GRUPOS DO PI ######
 
-**SN5**
-Anderson Lucas
-Giovani de Paiva
+*SN5*
 Pedro Perez
 Pedro Miguel
+Giovani de Paiva
 Rafael Rodrigues
+Anderson Lucas
 
+*404*
+Angela Graciete
+Anna Fragoso
+Saulo Sinésio
+Tamires Boldarim
 
-**UrWay**
-Augusto
-Jefferson 
-Lincoln
-Luiz Guilherme
+*Mortal Codit*
+Joan Barbosa 
+maria José martins
 
-**Grupo-1**
-Beatriz
-Pedro Cesar
-Maurício Ferraz
+*Grupo*
+José Wagner
+Júlia Visolli
 
-**Grupo 3**
-Gabriel L. Montebeller
-Bruno Santos
-Fernando yamamoto
-David Washington 
-
-**Camorra**
-Bruno Chasseraux
-Felipe Miconi
-Igor Ramos
-Leandro Renan
-Roberto Rodrigues
-
-**Dead Pixel**
-Guilherme Garcia
-Willian
-Leonardo 
-Felipe Santos
-
-**Old School**
-Matheus 
-Diogo Oliveira
-Jonathan Damascena
-Guilherme Ramos
-
-**Guanabara**
-Francisco
-Victor
-Thiago
-Vinicius Aquino
+**Nutrella**
+Matheus
+Manoel
+Paula
+Janio
 
 http://senaquiz.sistemasparainter.net/portal/index.php
