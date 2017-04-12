@@ -28,3 +28,5 @@ Paula
 Janio
 
 http://senaquiz.sistemasparainter.net/portal/index.php
+
+https://www.onwebsecurity.com/windows/git-on-windows-location-of-global-configuration-file
