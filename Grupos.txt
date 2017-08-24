@@ -1,15 +1,7 @@
-﻿###### GRUPOS DO PI ######
-
+###### GRUPOS DO PI ######
 
 **ssh**
 Daniel Lucindo
 Jorzias
 Filipe Guarnieri
 Adriano
- 
-
-
-
-http://senaquiz.sistemasparainter.net/portal/index.php
-
-https://www.onwebsecurity.com/windows/git-on-windows-location-of-global-configuration-file
