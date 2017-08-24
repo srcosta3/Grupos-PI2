@@ -1,5 +1,11 @@
 ###### GRUPOS DO PI ######
 
+*DAST*
+Ariel Alves
+Danilo Dantas
+Sandra Costa
+Tatiane Santos
+
 **Vexx Devs**
 Clayton Oliveira
 Clayton Juliano
