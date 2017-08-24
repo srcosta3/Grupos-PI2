@@ -1,12 +1,13 @@
-﻿###### GRUPOS DO PI ######
+###### GRUPOS DO PI ######
 
 **AFRR**
-
 Alexandre Alberto Fidalgo	
 Felipe Vieira Barros
 Ricardo Marcos de Freitas
 Rick Santana
 
-http://senaquiz.sistemasparainter.net/portal/index.php
-
-https://www.onwebsecurity.com/windows/git-on-windows-location-of-global-configuration-file
+**ssh**
+Daniel Lucindo
+Jorzias
+Filipe Guarnieri
+Adriano
