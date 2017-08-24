@@ -1,4 +1,4 @@
-###### GRUPOS DO PI ######
+﻿###### GRUPOS DO PI ######
 
 *SN5*
 Pedro Perez
@@ -23,6 +23,14 @@ Júlia Visolli
 **Nutrella**
 Matheus
 Manoel
+
+
+**ssh**
+Daniel Lucindo
+Jorzias
+Filipe Guarnieri
+Adriano
+
 
 http://senaquiz.sistemasparainter.net/portal/index.php
 
