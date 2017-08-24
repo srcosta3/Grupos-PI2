@@ -1,4 +1,10 @@
-###### GRUPOS DO PI ######
+##### GRUPOS DO PI ######
+
+=====Grupo_Bar100lona=====
+José Rodrigo Lima Santos
+Luis Felipe Marques Miranda
+Marcelo Borelli Hegedus
+Pedro Henrique Morais Silva
 
 **AFRR**
 Alexandre Alberto Fidalgo	
