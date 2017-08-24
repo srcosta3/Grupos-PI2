@@ -1,28 +1,11 @@
-###### GRUPOS DO PI ######
+﻿###### GRUPOS DO PI ######
 
-*SN5*
-Pedro Perez
-Pedro Miguel
-Giovani de Paiva
-Rafael Rodrigues
-Anderson Lucas
+**AFRR**
 
-*404*
-Angela Graciete
-Anna Fragoso
-Saulo Sinésio
-
-*Mortal Codit*
-Joan Barbosa 
-maria José martins
-
-*Grupo*
-José Wagner
-Júlia Visolli
-
-**Nutrella**
-Matheus
-Manoel
+Alexandre Alberto Fidalgo	
+Felipe Vieira Barros
+Ricardo Marcos de Freitas
+Rick Santana
 
 http://senaquiz.sistemasparainter.net/portal/index.php
 
