@@ -1,29 +1,7 @@
-###### GRUPOS DO PI ######
+﻿###### GRUPOS DO PI ######
 
-*SN5*
-Pedro Perez
-Pedro Miguel
-Giovani de Paiva
-Rafael Rodrigues
-Anderson Lucas
-
-*404*
-Angela Graciete
-Anna Fragoso
-Saulo Sinésio
-
-*Mortal Codit*
-Joan Barbosa 
-maria José martins
-
-*Grupo*
-José Wagner
-Júlia Visolli
-
-**Nutrella**
-Matheus
-Manoel
-
-http://senaquiz.sistemasparainter.net/portal/index.php
-
-https://www.onwebsecurity.com/windows/git-on-windows-location-of-global-configuration-file
+======Grupo_Bar100lona=====
+José Rodrigo Lima Santos
+Luis Felipe Marques Miranda
+Marcelo Borelli Hegedus
+Pedro Henrique Morais Silva
