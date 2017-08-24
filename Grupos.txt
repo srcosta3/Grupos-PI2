@@ -1,5 +1,11 @@
 ###### GRUPOS DO PI ######
 
+**AFRR**
+Alexandre Alberto Fidalgo	
+Felipe Vieira Barros
+Ricardo Marcos de Freitas
+Rick Santana
+
 **ssh**
 Daniel Lucindo
 Jorzias
