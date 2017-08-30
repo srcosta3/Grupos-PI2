@@ -40,7 +40,6 @@ Pedro Henrique Morais Silva
 Alexandre Alberto Fidalgo	
 Felipe Vieira Barros
 Ricardo Marcos de Freitas
-Rick Santana
 
 **ssh**
 Daniel Lucindo
