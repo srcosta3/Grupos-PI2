@@ -1,30 +1,56 @@
 ###### GRUPOS DO PI ######
 
-*SN5*
-Pedro Perez
-Pedro Miguel
-Giovani de Paiva
-Rafael Rodrigues
-Anderson Lucas
+*** 100NAC ***
+Daniel Fellipe Palma da Silva
+Mariana Macedo Soares
+Lais Aparecida
+Gustavo da Silva
 
-*404*
-Angela Graciete
-Anna Fragoso
-Saulo Sinésio
-Tamires Boldarim
+*DAST*
+PI2 - PETSHOP
+Ariel Alves
+Danilo Dantas
+Sandra Costa
+Tatiane Santos
 
-*Mortal Codit*
-Joan Barbosa 
-maria José martins
+**Vexx Devs**
+Clayton Oliveira
+Clayton Juliano
+Eduardo Maximiano
+Rodrigo Pazos
 
-*Grupo*
-José Wagner
-Júlia Visolli
+***Grupo sem nome 1****
+Jean Silva Francisco
+Kaique Calasans
+Endy Gatto Garcia
+Murilo Domingues Casanova
 
-**Nutrella**
-Matheus
-Manoel
-Paula
-Janio
+***Grupo Sem nome 2****
+Vinicius Martins
+Henrique Anisio
+Tiago Galvao
+Nataly Lima
 
-http://senaquiz.sistemasparainter.net/portal/index.php
+*Google First*
+Andrei Silva
+Bruno Fagundos
+João Augusto
+Julio CalistA
+
+=====Grupo_Bar100lona=====
+José Rodrigo Lima Santos
+Luis Felipe Marques Miranda
+Marcelo Borelli Hegedus
+Pedro Henrique Morais Silva
+
+**AFRR Solution**
+Alexandre Alberto Fidalgo	
+Felipe Vieira Barros
+Ricardo Marcos de Freitas
+
+**ssh**
+PI: Foxtrot Brinquedos
+Daniel Lucindo
+Jorzias
+Filipe Guarnieri
+Adriano
